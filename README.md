@@ -1,4 +1,4 @@
-<img src="./theicon.png" width="64" height="64" /> /b JaxonBuilder b/
+<img src="./theicon.png" width="64" height="64" /> 𝙅𝙖𝙭𝙤𝙣𝘽𝙪𝙞𝙡𝙙𝙚𝙧
 # JaxonBuilder
 Create extensions for Penguinmod using block-based coding.
 
